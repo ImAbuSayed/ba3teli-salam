@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> عيونك نار في هذا الليل
+> تسحر قلبي وتأخذ الدليل
+> لمسة إيدك تشفي العليل
+> بعتلي سلام يشفي الغليل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)

@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ba3teli-salam/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Usage Rights for Ba3teli Salam](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get a Licensing Quote for Ba3teli Salam](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---

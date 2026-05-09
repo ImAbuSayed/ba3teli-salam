@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ba3teli Salam
+
+This log tracks the cryptographic history and versioning for the song **Ba3teli Salam** (ba3teli-salam).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T07:05:05.081753 | `v1` | `f3993bfe903a8ed29eff820a4d891ec3927b74ca4f27bd3488f7681b0af73679` | `e3ef1719bb1839c38ae0af656f8c9357bbc27b38838e4764878093d96c9b1842` | `2026-05-09_ba3teli-salam-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
